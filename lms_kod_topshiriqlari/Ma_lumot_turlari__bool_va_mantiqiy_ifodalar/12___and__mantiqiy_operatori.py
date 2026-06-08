@@ -1,0 +1,1 @@
+print(eval(input()) and eval(input()))
