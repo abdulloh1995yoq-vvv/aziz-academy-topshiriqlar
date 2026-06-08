@@ -1,0 +1,1 @@
+print("Siz kiritdingiz:", input())
