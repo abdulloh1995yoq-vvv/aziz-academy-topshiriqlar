@@ -1,0 +1,1 @@
+print(int(input())<=25 and int(input())>=90)
