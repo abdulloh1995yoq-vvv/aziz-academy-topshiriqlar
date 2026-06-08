@@ -1,0 +1,1 @@
+print((n:=int(input()))>0 and n%2==0)
