@@ -1,1 +1,1 @@
-print("Men python organyapan!")
+print("Men Python o'rganyapman!")
