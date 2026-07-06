@@ -1,3 +1,3 @@
-x = "Aziz Academy"
-print("Hush kelipsiz!")
-print("Bu yerda", x, "Sizga tolim beradi.")
+print("Xush kelibsiz!")
+print("Bu yerda Aziz Academy sizga ta'lim beradi.")
+print("Aziz Academy - kelajak kasbi.")
