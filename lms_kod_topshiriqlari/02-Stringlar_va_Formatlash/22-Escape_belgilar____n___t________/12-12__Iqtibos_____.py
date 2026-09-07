@@ -1,1 +1,1 @@
-print("Hikmat: \"Mehnat baxt manbai\"")
+print('Hikmat: "Mehnat baxt manbai"')
