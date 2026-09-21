@@ -4,14 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **22%**  (40/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **20%**  (35/179 mavzu)
 
-- ⭐ Jami ball: **56616**
-- 📤 GitHubga yuborilgan topshiriqlar: **741**
+- ⭐ Jami ball: **63793**
+- 📤 GitHubga yuborilgan topshiriqlar: **742**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
 **MODUL 3 — Shartlar va Sikllar** → **Infinite loop 🔁 — cheksiz sikl muammosi va oldini olish**
+
+➡️ Keyingi mavzu: *for bilan kolleksiyalar — string/list bo'ylab yurish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -22,12 +24,12 @@
 - ✅ while sikli ⭐ — shartga asoslangan takrorlash
 - ✅ break va continue — sikldan chiqish va o'tkazib yuborish
 - ✅ for va range() ⭐ — ketma-ket takrorlash
-- ✅ for bilan kolleksiyalar — string/list bo'ylab yurish
+- ⬜ for bilan kolleksiyalar — string/list bo'ylab yurish
 - ✅ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
 - ✅ Filtrlash — juft sonlar, musbat sonlar ajratish
-- ✅ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
-- ✅ Nested loop — ko'paytirish jadvali
-- ✅ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
+- ⬜ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
+- ⬜ Nested loop — ko'paytirish jadvali
+- ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
 - ✅ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
 - ✅ 🛠 Loyiha: Kengaytirilgan kalkulyator — menyu + sikl
 - ✅ Infinite loop 🔁 — cheksiz sikl muammosi va oldini olish  ← yetgan joyingiz
@@ -39,8 +41,8 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
+| 2 | 🔸 Stringlar va Formatlash | `█████████░` 90% | 9/10 |
+| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 73% | 11/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -61,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-17 10:36</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-21 10:22</sub>
