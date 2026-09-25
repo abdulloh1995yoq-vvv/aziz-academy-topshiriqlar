@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█████░░░░░░░░░░░░░░░` **23%**  (42/179 mavzu)
+`█████░░░░░░░░░░░░░░░` **25%**  (44/179 mavzu)
 
-- ⭐ Jami ball: **74428**
-- 📤 GitHubga yuborilgan topshiriqlar: **832**
+- ⭐ Jami ball: **78594**
+- 📤 GitHubga yuborilgan topshiriqlar: **833**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **Tuple unpacking ⭐ — a, b = b, a**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **Dict — asoslar ⭐ — key/value, qiymatga murojaat**
 
-➡️ Keyingi mavzu: *Dict — asoslar ⭐ — key/value, qiymatga murojaat*
+➡️ Keyingi mavzu: *Dict metodlari — keys(), values(), items(), get()*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -23,8 +23,8 @@
 - ✅ List slicing va copy — list(), [:], shallow copy
 - ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya
 - ✅ Tuple — o'zgarmas tuzilma, qachon kerak
-- ✅ Tuple unpacking ⭐ — a, b = b, a  ← yetgan joyingiz
-- ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
+- ✅ Tuple unpacking ⭐ — a, b = b, a
+- ✅ Dict — asoslar ⭐ — key/value, qiymatga murojaat  ← yetgan joyingiz
 - ⬜ Dict metodlari — keys(), values(), items(), get()
 - ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
 - ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
@@ -45,8 +45,8 @@
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | 🔸 Stringlar va Formatlash | `█████████░` 90% | 9/10 |
-| 3 | 🔸 Shartlar va Sikllar | `████████░░` 80% | 12/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `███░░░░░░░` 33% | 6/18 |
+| 3 | 🔸 Shartlar va Sikllar | `█████████░` 87% | 13/15 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `████░░░░░░` 39% | 7/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-24 12:51</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-25 12:20</sub>
