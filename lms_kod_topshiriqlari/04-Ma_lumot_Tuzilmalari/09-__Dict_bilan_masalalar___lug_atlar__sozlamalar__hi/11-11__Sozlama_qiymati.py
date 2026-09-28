@@ -1,0 +1,1 @@
+print({"til": "uz", "tema": "qora"}.get(input().strip(), "standart"))
