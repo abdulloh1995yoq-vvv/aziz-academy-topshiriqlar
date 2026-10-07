@@ -1,7 +1,10 @@
-A = set(input().strip().split())
-B = set(input().strip().split())
-
-common = sorted(A & B)
-print(len(common))
-for name in common:
-    print(name)
+n = int(input())
+products = []
+for _ in range(n):
+    name, price = input().split()
+    products.append({'name': name, 'price': int(price)})
+    eng = products[0]
+    for p in products:
+        if p['price'] < eng ['price']:
+            eng = p
+print(eng['name'])
