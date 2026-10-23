@@ -1,0 +1,1 @@
+print({(l := input().split())[0]:l[1] for _ in range(int(input()))})
