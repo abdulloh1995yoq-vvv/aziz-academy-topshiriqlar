@@ -1,0 +1,1 @@
+x, y, z = input().split(); print(f"a={x} b={y} c={z}\na={z} b={y} c={x}")
