@@ -1,0 +1,1 @@
+f, l = input(), input(); print(f"{f} {l}\n{f} {l}")
