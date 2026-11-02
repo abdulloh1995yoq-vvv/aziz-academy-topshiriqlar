@@ -1,0 +1,1 @@
+print("Matn: Aziz Academy\nBelgilar soni: 12")
