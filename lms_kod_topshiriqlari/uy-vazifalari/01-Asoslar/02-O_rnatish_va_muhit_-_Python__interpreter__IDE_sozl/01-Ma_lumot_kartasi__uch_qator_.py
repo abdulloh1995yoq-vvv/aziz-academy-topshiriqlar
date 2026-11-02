@@ -1,0 +1,1 @@
+print("Ism: Aziz Academy\nKurs: Python asoslari\nModul: 1 - Asoslar")
