@@ -1,5 +1,5 @@
 nums = input().split()
 p = int(input())
-x = input().strip() 
+x = input().strip()
 nums.insert(p, x)
 print(" ".join(nums))
