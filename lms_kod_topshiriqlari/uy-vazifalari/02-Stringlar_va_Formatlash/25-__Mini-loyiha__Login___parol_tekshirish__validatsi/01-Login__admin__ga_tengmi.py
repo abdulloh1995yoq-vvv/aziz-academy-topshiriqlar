@@ -1,2 +1,2 @@
-login = input()
-print(login == "admin")
+a = input()
+print(a == "admin")
