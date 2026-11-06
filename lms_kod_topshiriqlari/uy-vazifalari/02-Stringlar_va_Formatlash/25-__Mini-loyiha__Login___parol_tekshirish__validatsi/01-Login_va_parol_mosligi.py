@@ -1,3 +1,3 @@
-login = input()
-parol = input()
-print(login == "admin" and parol == "1234")
+a  =input()
+b = input()
+print(a == "admin" and b == "1234")
