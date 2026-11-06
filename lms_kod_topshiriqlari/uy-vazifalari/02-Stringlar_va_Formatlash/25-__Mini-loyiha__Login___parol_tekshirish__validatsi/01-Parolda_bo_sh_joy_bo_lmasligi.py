@@ -1,3 +1,2 @@
-parol = input()
-
-print(" " not in parol and len(parol) >= 8)
+a = input()
+print(" " not in a and len(a) >= 8)
