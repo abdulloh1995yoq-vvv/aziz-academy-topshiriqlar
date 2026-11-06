@@ -1,3 +1,2 @@
-parol = input()
-
-print(len(parol) >= 8)
+a = input()
+print(len(a) >= 8)
