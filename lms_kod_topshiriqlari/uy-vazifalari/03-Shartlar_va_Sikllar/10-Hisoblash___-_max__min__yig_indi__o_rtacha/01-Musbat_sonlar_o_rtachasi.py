@@ -1,6 +1,6 @@
 n = int(input())
 s = 0
-c = 0
+c =0
 for i in range(n):
     x = int(input())
     if x > 0:
