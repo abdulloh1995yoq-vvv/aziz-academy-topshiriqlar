@@ -5,7 +5,7 @@ if step <= 0:
 else:
     value = start
     count = 0
-    while  value < 100:
+    while value < 100:
         value += step
         count += 1
     print(count)
