@@ -11,7 +11,7 @@ for round_no in range(1, r+1):
             break
     total += attempts
     if best is None or attempts < best:
-        best = attempts
+            best = attempts
     print(f"Round {round_no}: {attempts} urinish")
 print(f"Jami: {total}")
 print(f"Eng yaxshi: {best}")
