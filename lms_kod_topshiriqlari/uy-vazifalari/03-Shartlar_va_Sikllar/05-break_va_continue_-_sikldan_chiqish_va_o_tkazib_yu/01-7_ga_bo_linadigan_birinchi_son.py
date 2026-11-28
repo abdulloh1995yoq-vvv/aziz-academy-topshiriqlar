@@ -4,7 +4,7 @@ found = 0
 ok = 0
 while i < n:
     x = int(input())
-    i = i + 1
+    i = i +1 
     if x % 7 == 0:
         found = x
         ok = 1
